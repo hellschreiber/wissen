@@ -70,3 +70,4 @@ Sources:
   - [reddit: What are some cool aerospace startups that you're keeping an eye on?
 ](https://www.reddit.com/r/aerospace/comments/8sfzp6/what_are_some_cool_aerospace_startups_that_youre/)
   - [NewSpace Hub Spreadsheet](https://docs.google.com/spreadsheets/d/1aN-bEJuJBqPuga1Ii6lgmGcQil9SHM31_5ev5Ap-zaQ/edit#gid=0)
+  - [NewSpace Hub DB](https://newspacehub.co/search)
